@@ -1,0 +1,5 @@
+Hello world
+Python is best
+Enjoy learning python
+Python is very simple
+Python is a powerful language
