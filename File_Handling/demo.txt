@@ -1,5 +1,3 @@
-Hello world
-Python is best
-Enjoy learning python
-Python is very simple
-Python is a powerful language
+Python is easy
+Python is powerful language
+Pyhon is used in AI/ML, Data Analytics, Web Development
