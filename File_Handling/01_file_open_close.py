@@ -5,7 +5,6 @@
 
 file = open('./File_Handling/demo.txt','wb')
 print(file.closed)
-
+print(file.fileno())
 file.close()
-
 print(file.closed)
